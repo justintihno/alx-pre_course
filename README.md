@@ -1,2 +1,4 @@
-Did you know all language is gibberish
-My first readme
+Onboarding - Tools
+
+Worked on:
+    - 0x01. Git 
